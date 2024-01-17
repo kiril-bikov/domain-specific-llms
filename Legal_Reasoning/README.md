@@ -5,8 +5,6 @@ The following topics have been evaluated:
 * Contract Understanding
 * Legal Diversity
 
-Results:
-
 ### Legal CUAD Models Accuracy (%)
 
 | **Model**     | **Fine-Tuned** | **RAG** |

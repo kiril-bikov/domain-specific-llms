@@ -5,8 +5,6 @@ The following topics have been evaluated:
 * USA Medical Exams
 * Taiwan Medical Exams
 
-Results:
-
 ### USA MedQA Models Accuracy (%)
 
 | **Model**    | **Fine-Tuned** | **RAG**  |
